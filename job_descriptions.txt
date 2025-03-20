@@ -1,0 +1,4 @@
+We are looking for a Data Analyst with expertise in SQL, Python, and Power BI. 
+The ideal candidate should have experience in data cleaning, visualization, and machine learning models. 
+Familiarity with Tableau and cloud platforms is a plus. 
+Responsibilities include analyzing business trends and creating dashboards.

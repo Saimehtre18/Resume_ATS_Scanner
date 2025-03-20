@@ -1,0 +1,14 @@
+Python
+SQL
+Machine Learning
+Deep Learning
+Power BI
+Tableau
+Data Visualization
+Data Cleaning
+ETL
+Cloud Computing
+Excel
+Natural Language Processing
+Statistical Modeling
+Business Intelligence
